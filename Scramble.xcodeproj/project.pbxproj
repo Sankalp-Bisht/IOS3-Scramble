@@ -16,6 +16,7 @@
 		F668CF8E27D9B74B008499C6 /* ScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F668CF8D27D9B74B008499C6 /* ScrambleTests.swift */; };
 		F668CF9827D9B74B008499C6 /* ScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F668CF9727D9B74B008499C6 /* ScrambleUITests.swift */; };
 		F668CF9A27D9B74B008499C6 /* ScrambleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F668CF9927D9B74B008499C6 /* ScrambleUITestsLaunchTests.swift */; };
+		F668CFA727D9B8B7008499C6 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = F668CFA627D9B8B7008499C6 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F668CF9327D9B74B008499C6 /* ScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F668CF9727D9B74B008499C6 /* ScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrambleUITests.swift; sourceTree = "<group>"; };
 		F668CF9927D9B74B008499C6 /* ScrambleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrambleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F668CFA627D9B8B7008499C6 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F668CF7F27D9B74B008499C6 /* Assets.xcassets */,
 				F668CF8127D9B74B008499C6 /* LaunchScreen.storyboard */,
 				F668CF8427D9B74B008499C6 /* Info.plist */,
+				F668CFA627D9B8B7008499C6 /* start.txt */,
 			);
 			path = Scramble;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F668CF8327D9B74B008499C6 /* LaunchScreen.storyboard in Resources */,
+				F668CFA727D9B8B7008499C6 /* start.txt in Resources */,
 				F668CF8027D9B74B008499C6 /* Assets.xcassets in Resources */,
 				F668CF7E27D9B749008499C6 /* Main.storyboard in Resources */,
 			);
